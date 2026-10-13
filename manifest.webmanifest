@@ -1,0 +1,13 @@
+{
+  "name": "Relatório de Início de Turno CNC",
+  "short_name": "Relatório CNC",
+  "description": "Conferência de máquinas CNC e relatórios de turno",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#edf3f4",
+  "theme_color": "#0d5962",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
